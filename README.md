@@ -8,3 +8,6 @@ I am currently learning penetration testing on HackTheBox, leveraging Parrot Sec
 ## Machines
 ### Starting Point (Tier 0)
 - [Meow](https://github.com/jcongmon/htb/tree/main/meow) (Telnet, Protocols, Reconnaissance, Weak Credentials, Misconfiguration)
+- [Fawn]() (FTP, Protocols, Reconnaissance, Anonymous/Guest Access)
+- [Dancing]() (Protocols, SMB, Reconnaissance, Anonymous/Guest Access)
+- [Redeemer]() (Redis, Vulnerability Assessment, Databases, Reconnaissance, Anonymous/Guest Access)
