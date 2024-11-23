@@ -7,4 +7,4 @@ I am currently learning penetration testing on HackTheBox, leveraging Parrot Sec
 
 ## Machines
 ### Starting Point (Tier 0)
-- [Meow](https://github.com/jcongmon/htb/meow) (Telnet, Protocols, Reconnaissance, Weak Credentials, Misconfiguration)
+- [Meow](https://github.com/jcongmon/htb/tree/main/meow) (Telnet, Protocols, Reconnaissance, Weak Credentials, Misconfiguration)
