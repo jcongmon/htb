@@ -14,4 +14,6 @@ I am currently learning penetration testing on HackTheBox, leveraging Parrot Sec
 - [Redeemer](https://github.com/jcongmon/htb/tree/main/starting-point/tier0/redeemer/README.md) (Redis, Vulnerability Assessment, Databases, Reconnaissance, Anonymous/Guest Access)
 #### Tier 1
 - [Appointment](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/appointment/README.md) (Databases, Apache, MariaDB, PHP, SQL, Reconnaissance, SQL Injection)
+- [Sequel](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/sequel/README.md) (Vulnerability Assessment, Databases, MySQL, SQL, Reconnaissance, Weak Credentials)
+- [Crocodile](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/crocodile/README.md) (Custom Applications, Protocols, Apache, FTP, Reconnaissance, Web Site Structure Discovery, Clear Text Credentials, Anonymous/Guest Access)
 #### Tier 2
