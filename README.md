@@ -16,4 +16,6 @@ I am currently learning penetration testing on HackTheBox, leveraging Parrot Sec
 - [Appointment](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/appointment/README.md) (Databases, Apache, MariaDB, PHP, SQL, Reconnaissance, SQL Injection)
 - [Sequel](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/sequel/README.md) (Vulnerability Assessment, Databases, MySQL, SQL, Reconnaissance, Weak Credentials)
 - [Crocodile](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/crocodile/README.md) (Custom Applications, Protocols, Apache, FTP, Reconnaissance, Web Site Structure Discovery, Clear Text Credentials, Anonymous/Guest Access)
+- [Responder](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/responder/README.md) (WinRM, Custom Applications, Protocols, XAMPP, SMB, Responder, PHP, Reconnaissance, Password Cracking, Hash Capture, Remote File Inclusion, Remote Code Execution)
+- [Three](https://github.com/jcongmon/htb/tree/main/starting-point/tier1/three/README.md) (Cloud, Custom Applications, AWS, Reconnaissance, Web Site Structure Discovery, Bucket Enumeration, Arbitrary File Upload, Anonymous/Guest Access)
 #### Tier 2
